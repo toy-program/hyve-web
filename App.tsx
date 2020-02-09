@@ -1,5 +1,5 @@
 import React from "react";
-import Test from "@/Test";
+import Test from "@/navigations/TabNavigation";
 
 export default function App() {
   return <Test />;
